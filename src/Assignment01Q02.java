@@ -3,7 +3,7 @@ public class Assignment01Q02 {
         double actualPi = Math.PI;
         double approxPi = 0;
         boolean sign = true;
-        int num = 1;
+        long num = 1;
         double cnt = 0;
 
         // TODO: Fill in the Pi approxiamtion here
